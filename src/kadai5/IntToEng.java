@@ -23,7 +23,7 @@ public class IntToEng {
     	//String ans[] = {"zero","one","two"};
     	//ここに10以下であることを定義する
     	
-    
+
     	//10~19
     	if(n==10){
     		no="ten";
